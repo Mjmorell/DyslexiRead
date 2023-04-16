@@ -38,6 +38,7 @@ By leveraging advanced text extraction techniques from images, DyslexiRead conve
   - [ ] Customizable sentence separation for better text comprehension
     - For example, a user may want to separate sentences by a new line, or larger spacing between sentences
     - Could also be used to separate phrases by specific punctuation (e.g. commas, periods, etc.)
+  - [ ] Research topic of sentence refactoring / splitting complex/long words into simpler phrases
 
 <br />
 <br />
